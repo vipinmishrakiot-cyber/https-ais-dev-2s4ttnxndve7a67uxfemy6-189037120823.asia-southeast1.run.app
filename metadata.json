@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Trilokneer - Pure Water App",
+  "description": "A modern mobile-first application for Trilokneer water, featuring AI-powered label verification, product ordering, and quality tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
